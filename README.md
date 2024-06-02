@@ -31,4 +31,4 @@ VALUES
 ```
 ## Video Link
 
-[Screen Recording of POSTMAN Testing](insert_video_link_here)
+[Screen Recording of POSTMAN Testing](https://drive.google.com/file/d/1D8IzmtgY1Tq6mPwhxPw1f_mB67u2ntBf/view?usp=drive_link)
